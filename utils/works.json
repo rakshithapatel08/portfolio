@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "role": "Javascript Contributor - Hacktoberfest",
+        "place": "DOM Wizard",
+        "work": [
+        
+        ],
+        "timeline": "October 2023 - October 2023",
+        "img": "/domwizard.png",
+        "link":""
+    },
+    {
+        "id": "2",
+        "role": "SDE Intern",
+        "place": "CosmicTech.io",
+        "work": [
+            "Working as a SDE Intern, primarily focused on the full stack part of the application.",
+            "Contributed on the enhancement of UI by building image crop functionality and notification streams.",
+            "Worked exclusively on forms and validation.",
+            "Built the authentication system in the backend part using firebase and majorly helped to link mutliple auth providers to a single account."
+        ],
+        "timeline": "March 2024 - Present",
+        "img": "/cosmic.png"        
+
+    }
+]

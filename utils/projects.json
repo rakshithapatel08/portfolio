@@ -1,0 +1,36 @@
+[
+    {
+        "number":"01",
+        "title":"Homify",
+        "subtitle":"Real Estate Web App",
+        "desc":"Explore the best homes in UAE which brings lots of joy to you & your family.",
+        "tech":["NextJS","ChakraUI","RapidAPI"],
+        "githubRepoLink":"https://github.com/rakshithapatel08/Homify-web-app",
+        "projectLink":"https://homify-web-app.vercel.app/",
+        "image":"/homify.png",
+        "svg":"/home.png"
+    },
+    {
+        "number":"02",
+        "title":"StealTeal",
+        "subtitle":"Fashion WebApp with TRY-ON",
+        "desc":"Your one stop for buying best clothing with the virtual try-on feature.",
+        "tech":["MERN","ReveryAPI","ChakraUI","Stripe"],
+        "githubRepoLink":"https://github.com/rakshithapatel08/Fashion-webstore",
+        "projectLink":"https://stealteal.onrender.com/",
+        "image":"/stealteal.png",
+        "svg":"/bags.png"
+    },
+    {
+        "number":"03",
+        "title":"Portfolio",
+        "subtitle":"RP- Portfolio to showcase my skills",
+        "desc":"Hang On, Lets connect and build something together.",
+        "tech":["NextJS","TailwindCSS"],
+        "githubRepoLink":"https://github.com/rakshithapatel08/",
+        "projectLink":"",
+        "image":"/portfolioDemo.png",
+        "svg":"/portfolio.png"
+    }
+]
+
