@@ -15,7 +15,7 @@ const ProjectCard = ({details:{title,desc,subtitle,tech,githubRepoLink,projectLi
             <p className='text-zinc-600 text-md mt-4'>{desc}</p>
             </div>
             <div className='pr-6'>
-            <Image src={svg} width={30} height={30} className='mb-16'/>
+            <Image src={svg} width={20} height={20} className='mb-12'/>
             <Link href={projectLink}><Image src="/link.png" width={30} height={30} className='mb-3'/></Link>
             <Link href={githubRepoLink}><Image src="/github.png" width={40} height={40} className=''/></Link>                
             </div>

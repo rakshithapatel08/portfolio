@@ -13,7 +13,7 @@ const Footer = () => {
             <Link href=""><div className='flex gap-2 pl-4 pr-4 items-start justify-center mt-2'><Image src="/email.png" width={20} height={20}/><span className='text-black'>rakshithapatel0807@gmail.com</span></div></Link>
             </div>
             <div className='flex flex-col items-start'>
-            <Link href="www.linkedin.com/in/rakshitha-patel-41554523b"><div className='flex gap-2 mb-1 items-center justify-center'><Image src="/linkedinDark.png" width={30} height={30}/><span className='text-black'>/rakshitha-patel-41554523b</span></div></Link>
+            <Link href="https://www.linkedin.com/in/rakshitha-patel-41554523b/"><div className='flex gap-2 mb-1 items-center justify-center'><Image src="/linkedinDark.png" width={30} height={30}/><span className='text-black'>/rakshitha-patel-41554523b</span></div></Link>
                 <Link href="https://github.com/rakshithapatel08"><div className='flex gap-2 mb-1 items-center justify-center'><Image src="/githubDark.png" width={30} height={30}/><span className='text-black'>/rakshithapatel08</span></div></Link>
                 <Link href=""><div className='flex gap-2 mb-1 items-center justify-center'><Image src="/web.png" width={30} height={30}/><span className='text-black'>/rakshithapatel08-vercel.app</span></div></Link>
                 <Link href="https://x.com/_rakshitha_08"><div className='flex gap-2 mb-1 items-center justify-center'><Image src="/twitter.png" width={30} height={30}/><span className='text-black'>/_rakshitha_08</span></div></Link>
