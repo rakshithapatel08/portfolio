@@ -22,7 +22,7 @@ const Herobanner = () => {
     }
     return (
         <>
-        <div className='mt-10'>           
+        <div className='mt-10 md:w-full w-screen'>           
             <div className='border-solid outline-double flex outline-zinc-900 relative w-full h-[30rem] overflow-hidden'>
             <motion.div className='text-zinc-950 absolute text-[10rem] -bottom-10 font-bold whitespace-nowrap w-full z-10' variants={slidingvariants} initial="initial" animate="animate">
             Rakshitha Patel Web Developer
